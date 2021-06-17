@@ -2,3 +2,6 @@ inst/doc
 *~
 .Rproj.user
 docs
+.Rprofile
+renv
+renv.lock
